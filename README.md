@@ -4,3 +4,4 @@
 ###[第一部](https://github.com/Moguf/cplus/blob/master/ch01.md)
 ###[第二部](https://github.com/Moguf/cplus/blob/master/ch02.md)
 ###[第三部](https://github.com/Moguf/cplus/blob/master/ch03.md)
+###[第四部](https://github.com/Moguf/cplus/blob/master/ch04.md)
