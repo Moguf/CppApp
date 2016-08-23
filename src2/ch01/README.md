@@ -11,10 +11,10 @@
 - Represent idea directly in code.
 
 ### Modern Desing
-+ Use constructors to establish invariants.
+1. Use constructors to establish invariants.
 + Use constructor/destrutor pairs to simplify resource managment.
 + Avoid "naked" new and delete.
-4. Use containers and algorithms rather than built-in arrays and ad hoc code.
++ Use containers and algorithms rather than built-in arrays and ad hoc code.
 5. Prefer standard-library facilities to locally developed code.
 6. Use exceptions, rather than error codes, to report errors that cannot be handled locally.
 7. Use move smantics to avoid copying large object.
