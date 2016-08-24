@@ -1,4 +1,6 @@
-### Design of C++
+Design of C++
+=============
+
 * direct mappings of built-in operations and types to hardware to provide efficient memory use and efficient low-level operations, and 
 * affordable and flexible abstraction mechanisms to provide user-defined types with the same notational support, range of uses, and performance as built-in types. 
 * C++ is a general-purpose programming language with a bias toward systems programming.
@@ -16,6 +18,9 @@
 
 ### C++ Style
 * Procedural Programming
+
+  This is programming focused on processing and the design of suitable data structures. It is what C was designed to support (and Algol, and Fortran, as well as many other languages). C++’s support comes in the form of the built-in types, oper- ators, statements, functions, structs, unions, etc. With minor exceptions, C is a subset of C++. Compared to C, C++ provides further support for procedural programming in the form of many additional language constructs and a stricter, more flexible, and more support- ive type system.
+
 * Data abstraction
 * Object-oriented programming
 * Generic programming
