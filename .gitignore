@@ -4,3 +4,6 @@
 *.o
 src2/*
 !.gitkeep
+!*.cpp
+!*.hpp
+!*.h
