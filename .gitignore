@@ -4,7 +4,8 @@
 !*.hpp
 !*.h
 
-src2/*
+src2/*.rst
+src2/*/*.rst
 *~
 *.out
 \#*
