@@ -1,9 +1,11 @@
-*~
-*.out
-\#*
-*.o
-src2/*
+
 !.gitkeep
 !*.cpp
 !*.hpp
 !*.h
+
+src2/*
+*~
+*.out
+\#*
+*.o
